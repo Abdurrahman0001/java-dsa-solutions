@@ -1,0 +1,22 @@
+
+
+                                    Array
+                           ------------------------------------
+
+ Array --> Array is a list of elements of the same type,placed in a contiguous memory location.
+
+                eg ---> for int 1,3,5,5,6,7
+                        for String "sam","rahul","shyam"
+ Operations in Arrays--
+                    Create
+                    Input
+                    Output
+                    Update
+ 1) Crating an Array:
+ ----------------------
+ dataType arrayName[] = new dataType[size];
+ eg--- int marks[] = new int[5];
+       marks[0] = 68;
+       and so on
+       same for String
+       String fruits[] = {"mango","apple"};     //2 space will be created
