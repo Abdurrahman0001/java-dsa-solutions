@@ -123,6 +123,3 @@ Stay tuned for updates 🔥
 - Looks **serious + interview-focused** to recruiters
 
 ---
-
-👉 Do you want me to also suggest a **GitHub repo description & tags** (so it ranks better when recruiters search for "Java DSA" projects)?
-
